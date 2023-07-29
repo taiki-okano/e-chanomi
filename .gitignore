@@ -466,4 +466,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-
+# Error correction data
+error_corrections.json
