@@ -1,4 +1,4 @@
-# Adapted from https://stackoverflow.com/questions/43535997/execute-a-function-periodically-in-python-for-every-n-milliseconds-in-python-2
+# Adopted from https://stackoverflow.com/questions/43535997/execute-a-function-periodically-in-python-for-every-n-milliseconds-in-python-2
 
 import time
 import threading
